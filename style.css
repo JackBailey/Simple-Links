@@ -98,3 +98,23 @@ h1{
 .footer:hover{
     color: rgb(0, 110, 255);
 }
+
+/* Remove this if you're not using YOURLS */
+.hiddenFooter{
+    z-index: 100;
+    background: transparent;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: 500ms;
+}
+
+.hiddenFooter:hover{
+    opacity: 1;
+}
+/*  */
