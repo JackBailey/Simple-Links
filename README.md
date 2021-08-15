@@ -9,6 +9,6 @@ A simple static HTML + CSS page that's much more customisable, responsive and do
 ## Websites + Users using this 
 [jackb.link](https://jackb.link) - Me <br>
 [jackbailey.codes](https://jackbailey.codes) - Me<br>
-[glymps.xyz](https://glymps.xyz) - Me (Gaming Alias)<br>
+
 
 <sub>Create a pull request to be added</sub>
